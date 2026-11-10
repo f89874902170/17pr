@@ -20,6 +20,19 @@ a {
     text-decoration: none;
 }
 
+h1 {
+  font-size: 3.6em;
+  margin: 0 0 18px 0;
+  background: linear-gradient(100deg, #f01a00 5%, #ffb400 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  color: transparent;
+  text-shadow: 0 0 10px rgba(255, 100, 0, 0.5);
+  line-height: 1.15;
+  font-weight: 900;
+}
+
 button {
     font-family: inherit;
     cursor: pointer;
